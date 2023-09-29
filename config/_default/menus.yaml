@@ -1,0 +1,21 @@
+leftnav:
+- identifier: faef5ff8-f855-85ae-a46f-e8469080c661
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8dce0755-5602-d948-ee02-9884fd86bcea
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: df77c508-7eba-ad14-53bb-826b9c5caf5e
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 83288621-5c35-eb8f-8c81-28d7ca76e7a1
+  name: Audio Lectures
+  pageRef: /video_galleries/audio-lectures
+  weight: 40
+- identifier: 909a23bc-c2b0-24c6-a18e-55dd9f2f40d6
+  name: Projects
+  pageRef: /pages/projects
+  weight: 50
